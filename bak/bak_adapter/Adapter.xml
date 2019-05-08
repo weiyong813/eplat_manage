@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<root>
+    <AdapterInfo Mac="00-FF-22-D7-75-AA" AdapterName="{22D775AA-1FAF-423C-808F-641DA1A357B1}" Description="Sangfor SSL VPN CS Support System VNIC" HaveWins="0" DhcpEnabled="0" Type="6">
+        <IPAddressInfo Address="0.0.0.0" Mask="0.0.0.0" Context="0" />
+        <GatewayInfo Address="0.0.0.0" Mask="255.255.255.255" Context="0" />
+        <DHCPInfo Address="" Mask="" Context="0" />
+        <PrimaryWinsInfo Address="" Mask="" Context="0" />
+        <SecondaryWinsInfo Address="" Mask="" Context="0" />
+    </AdapterInfo>
+    <AdapterInfo Mac="4A-51-B7-AE-A3-D5" AdapterName="{0D2D9F74-A22C-42E2-B865-E74DF7322865}" Description="Microsoft Virtual WiFi Miniport Adapter" HaveWins="0" DhcpEnabled="1" Type="71">
+        <IPAddressInfo Address="0.0.0.0" Mask="0.0.0.0" Context="0" />
+        <GatewayInfo Address="0.0.0.0" Mask="255.255.255.255" Context="0" />
+        <DHCPInfo Address="" Mask="" Context="0" />
+        <PrimaryWinsInfo Address="" Mask="" Context="0" />
+        <SecondaryWinsInfo Address="" Mask="" Context="0" />
+    </AdapterInfo>
+    <AdapterInfo Mac="F0-76-1C-06-B7-30" AdapterName="{1A83FD12-14B6-4314-845F-95B99FB6AE40}" Description="Realtek PCIe GBE Family Controller" HaveWins="0" DhcpEnabled="0" Type="6">
+        <IPAddressInfo Address="0.0.0.0" Mask="0.0.0.0" Context="0" />
+        <DnsInfo ServerAddress="61.139.2.69" />
+        <GatewayInfo Address="10.6.125.1" Mask="255.255.255.255" Context="24970762" />
+        <DHCPInfo Address="" Mask="" Context="0" />
+        <PrimaryWinsInfo Address="" Mask="" Context="0" />
+        <SecondaryWinsInfo Address="" Mask="" Context="0" />
+    </AdapterInfo>
+    <AdapterInfo Mac="00-FF-D7-77-59-C7" AdapterName="{D77759C7-51C0-41AA-84DE-811339417091}" Description="Hillstone Virtual Network Adapter" HaveWins="0" DhcpEnabled="0" Type="6">
+        <IPAddressInfo Address="172.168.1.14" Mask="255.255.255.0" Context="234989740" />
+        <DnsInfo ServerAddress="61.139.2.69" />
+        <GatewayInfo Address="0.0.0.0" Mask="255.255.255.255" Context="0" />
+        <DHCPInfo Address="" Mask="" Context="0" />
+        <PrimaryWinsInfo Address="" Mask="" Context="0" />
+        <SecondaryWinsInfo Address="" Mask="" Context="0" />
+    </AdapterInfo>
+    <AdapterInfo Mac="48-51-B7-AE-A3-D9" AdapterName="{A54EC53F-6E73-48AA-807A-FE16B0311635}" Description="Bluetooth " HaveWins="0" DhcpEnabled="1" Type="6">
+        <IPAddressInfo Address="0.0.0.0" Mask="0.0.0.0" Context="0" />
+        <GatewayInfo Address="0.0.0.0" Mask="255.255.255.255" Context="0" />
+        <DHCPInfo Address="" Mask="" Context="0" />
+        <PrimaryWinsInfo Address="" Mask="" Context="0" />
+        <SecondaryWinsInfo Address="" Mask="" Context="0" />
+    </AdapterInfo>
+    <AdapterInfo Mac="48-51-B7-AE-A3-D5" AdapterName="{3597F7B6-564D-41A5-8333-E8DBE053F970}" Description="Intel(R) Wireless-N 7260" HaveWins="0" DhcpEnabled="1" Type="71">
+        <IPAddressInfo Address="192.168.1.102" Mask="255.255.255.0" Context="1711384768" />
+        <GatewayInfo Address="192.168.1.4" Mask="255.255.255.255" Context="67217600" />
+        <DHCPInfo Address="192.168.1.4" Mask="255.255.255.255" Context="67217600" />
+        <PrimaryWinsInfo Address="" Mask="" Context="0" />
+        <SecondaryWinsInfo Address="" Mask="" Context="0" />
+    </AdapterInfo>
+</root>
